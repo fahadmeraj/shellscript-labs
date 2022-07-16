@@ -1,0 +1,2 @@
+if the command is not shell builtin then it will search in the PATH
+try to use for builtin other wise go towards binary

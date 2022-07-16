@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# owner: FM
+# this is another shellscript
+echo "hello" # inline comment
+echo "my
+name 
+is 
+fahad"
+
+echo "my \
+name \
+is \
+fahad \
+"
+
+apt-get install nginx \
+tomcat9
+mysql-server
+
+echo 'my \
+name \
+is \
+fahad'
+
+echo -e "my name is fahad \t and I am \t good"
+echo -e "my name is fahad \v and I am \v good"
+
+echo -e "my name is fahad \n and I am \n good"
+
